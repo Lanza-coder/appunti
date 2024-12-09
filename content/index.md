@@ -1,6 +1,14 @@
 ---
-title: Welcome to Quartz
+title: Appunti TPI
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Appunti inseriti:
+[[Context switching]]
+[[descrittore di processo]]
+[[Gestione della memoria]]
+[[Kernel dell' S.O]]
+[[processi]]
+[[processore]]
+[[SO]]
+[[Struttura PCB]]
+
